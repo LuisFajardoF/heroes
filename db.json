@@ -6,11 +6,7 @@
         "publisher": "DC Comics",
         "alter_ego": "Bruce Wayne",
         "first_appearance": "Detective Comics #27",
-        "characters": "Bruce Wayne",
-        "img-xs": "https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/xs/70-batman.jpg",
-        "img-sm": "https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/sm/70-batman.jpg",
-        "img-md": "https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/md/70-batman.jpg",
-        "img-lg": "https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/lg/70-batman.jpg"
+        "characters": "Bruce Wayne"
       },
       {
         "id": 2,
@@ -18,11 +14,7 @@
         "publisher": "DC Comics",
         "alter_ego": "Kal-El",
         "first_appearance": "Action Comics #1",
-        "characters": "Kal-El",
-        "img-xs": "https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/xs/644-superman.jpg",
-        "img-sm": "https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/sm/644-superman.jpg",
-        "img-md": "https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/md/644-superman.jpg",
-        "img-lg": "https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/lg/644-superman.jpg"
+        "characters": "Kal-El"
       },
       {
         "id": 3,
@@ -30,11 +22,7 @@
         "publisher": "DC Comics",
         "alter_ego": "Jay Garrick",
         "first_appearance": "Flash Comics #1",
-        "characters": "Jay Garrick, Barry Allen, Wally West, Bart Allen",
-        "img-xs": "https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/xs/263-flash.jpg",
-        "img-sm": "https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/sm/263-flash.jpg",
-        "img-md": "https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/md/263-flash.jpg",
-        "img-lg": "https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/lg/263-flash.jpg"
+        "characters": "Jay Garrick, Barry Allen, Wally West, Bart Allen"
       },
       {
         "id": 4,
@@ -42,11 +30,7 @@
         "publisher": "DC Comics",
         "alter_ego": "Alan Scott",
         "first_appearance": "All-American Comics #16",
-        "characters": "Alan Scott, Hal Jordan, Guy Gardner, John Stewart, Kyle Raynor, Jade, Sinestro, Simon Baz",
-        "img-xs": "https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/xs/305-guy-gardner.jpg",
-        "img-sm": "https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/sm/305-guy-gardner.jpg",
-        "img-md": "https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/md/305-guy-gardner.jpg",
-        "img-lg": "https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/lg/305-guy-gardner.jpg"
+        "characters": "Alan Scott, Hal Jordan, Guy Gardner, John Stewart, Kyle Raynor, Jade, Sinestro, Simon Baz"
       },
       {
         "id": 5,
@@ -54,11 +38,7 @@
         "publisher": "DC Comics",
         "alter_ego": "Oliver Queen",
         "first_appearance": "More Fun Comics #73",
-        "characters": "Oliver Queen",
-        "img-xs": "https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/xs/298-green-arrow.jpg",
-        "img-sm": "https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/sm/298-green-arrow.jpg",
-        "img-md": "https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/md/298-green-arrow.jpg",
-        "img-lg": "https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/lg/298-green-arrow.jpg"
+        "characters": "Oliver Queen"
       },
       {
         "id": 6,
@@ -66,11 +46,7 @@
         "publisher": "DC Comics",
         "alter_ego": "Princess Diana",
         "first_appearance": "All Star Comics #8",
-        "characters": "Princess Diana",
-        "img-xs": "https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/xs/720-wonder-woman.jpg",
-        "img-sm": "https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/sm/720-wonder-woman.jpg",
-        "img-md": "https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/md/720-wonder-woman.jpg",
-        "img-lg": "https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/lg/720-wonder-woman.jpg"
+        "characters": "Princess Diana"
       },
       {
         "id": 7,
@@ -78,11 +54,7 @@
         "publisher": "DC Comics",
         "alter_ego": "J\"onn J\"onzz",
         "first_appearance": "Detective Comics #225",
-        "characters": "Martian Manhunter",
-        "img-xs": "https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/xs/432-martian-manhunter.jpg",
-        "img-sm": "https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/sm/432-martian-manhunter.jpg",
-        "img-md": "https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/md/432-martian-manhunter.jpg",
-        "img-lg": "https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/lg/432-martian-manhunter.jpg"
+        "characters": "Martian Manhunter"
       },
       {
         "id": 8,
@@ -90,11 +62,7 @@
         "publisher": "DC Comics",
         "alter_ego": "Dick Grayson",
         "first_appearance": "Detective Comics #38",
-        "characters": "Dick Grayson",
-        "img-xs": "https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/xs/491-nightwing.jpg",
-        "img-sm": "https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/sm/491-nightwing.jpg",
-        "img-md": "https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/md/491-nightwing.jpg",
-        "img-lg": "https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/lg/491-nightwing.jpg"
+        "characters": "Dick Grayson"
       },
       {
         "id": 9,
@@ -102,11 +70,7 @@
         "publisher": "DC Comics",
         "alter_ego": "Dan Garret",
         "first_appearance": "Mystery Men Comics #1",
-        "characters": "Dan Garret, Ted Kord, Jaime Reyes",
-        "img-xs": "https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/xs/126-blue-beetle-iii.jpg",
-        "img-sm": "https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/sm/126-blue-beetle-iii.jpg",
-        "img-md": "https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/md/126-blue-beetle-iii.jpg",
-        "img-lg": "https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/lg/126-blue-beetle-iii.jpg"
+        "characters": "Dan Garret, Ted Kord, Jaime Reyes"
       },
       {
         "id": 10,
@@ -114,11 +78,7 @@
         "publisher": "DC Comics",
         "alter_ego": "Dinah Drake",
         "first_appearance": "Flash Comics #86",
-        "characters": "Dinah Drake, Dinah Lance",
-        "img-xs": "https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/xs/97-black-canary.jpg",
-        "img-sm": "https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/sm/97-black-canary.jpg",
-        "img-md": "https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/md/97-black-canary.jpg",
-        "img-lg": "https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/lg/97-black-canary.jpg"
+        "characters": "Dinah Drake, Dinah Lance"
       },
       {
         "id": 11,
@@ -126,11 +86,7 @@
         "publisher": "Marvel Comics",
         "alter_ego": "Peter Parker",
         "first_appearance": "Amazing Fantasy #15",
-        "characters": "Peter Parker",
-        "img-xs": "https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/xs/620-spider-man.jpg",
-        "img-sm": "https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/sm/620-spider-man.jpg",
-        "img-md": "https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/md/620-spider-man.jpg",
-        "img-lg": "https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/lg/620-spider-man.jpg"
+        "characters": "Peter Parker"
       },
       {
         "id": 12,
@@ -138,11 +94,7 @@
         "publisher": "Marvel Comics",
         "alter_ego": "Steve Rogers",
         "first_appearance": "Captain America Comics #1",
-        "characters": "Steve Rogers",
-        "img-xs": "https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/xs/149-captain-america.jpg",
-        "img-sm": "https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/sm/149-captain-america.jpg",
-        "img-md": "https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/md/149-captain-america.jpg",
-        "img-lg": "https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/lg/149-captain-america.jpg"
+        "characters": "Steve Rogers"
       },
       {
         "id": 13,
@@ -150,11 +102,7 @@
         "publisher": "Marvel Comics",
         "alter_ego": "Tony Stark",
         "first_appearance": "Tales of Suspense #39",
-        "characters": "Tony Stark",
-        "img-xs": "https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/xs/346-iron-man.jpg",
-        "img-sm": "https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/sm/346-iron-man.jpg",
-        "img-md": "https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/md/346-iron-man.jpg",
-        "img-lg": "https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/lg/346-iron-man.jpg"
+        "characters": "Tony Stark"
       },
       {
         "id": 14,
@@ -162,11 +110,7 @@
         "publisher": "Marvel Comics",
         "alter_ego": "Thor Odinson",
         "first_appearance": "Journey into Myster #83",
-        "characters": "Thor Odinson",
-        "img-xs": "https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/xs/659-thor.jpg",
-        "img-sm": "https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/sm/659-thor.jpg",
-        "img-md": "https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/md/659-thor.jpg",
-        "img-lg": "https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/lg/659-thor.jpg"
+        "characters": "Thor Odinson"
       },
       {
         "id": 15,
@@ -174,11 +118,7 @@
         "publisher": "Marvel Comics",
         "alter_ego": "Bruce Banner",
         "first_appearance": "The Incredible Hulk #1",
-        "characters": "Bruce Banner",
-        "img-xs": "https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/xs/332-hulk.jpg",
-        "img-sm": "https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/sm/332-hulk.jpg",
-        "img-md": "https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/md/332-hulk.jpg",
-        "img-lg": "https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/lg/332-hulk.jpg"
+        "characters": "Bruce Banner"
       },
       {
         "id": 16,
@@ -186,11 +126,7 @@
         "publisher": "Marvel Comics",
         "alter_ego": "James Howlett",
         "first_appearance": "The Incredible Hulk #180",
-        "characters": "James Howlett",
-        "img-xs": "https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/xs/717-wolverine.jpg",
-        "img-sm": "https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/sm/717-wolverine.jpg",
-        "img-md": "https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/md/717-wolverine.jpg",
-        "img-lg": "https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/lg/717-wolverine.jpg"
+        "characters": "James Howlett"
       },
       {
         "id": 17,
@@ -198,11 +134,7 @@
         "publisher": "Marvel Comics",
         "alter_ego": "Matthew Michael Murdock",
         "first_appearance": "Daredevil #1",
-        "characters": "Matthew Michael Murdock",
-        "img-xs": "https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/xs/201-daredevil.jpg",
-        "img-sm": "https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/sm/201-daredevil.jpg",
-        "img-md": "https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/md/201-daredevil.jpg",
-        "img-lg": "https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/lg/201-daredevil.jpg"
+        "characters": "Matthew Michael Murdock"
       },
       {
         "id": 18,
@@ -210,11 +142,7 @@
         "publisher": "Marvel Comics",
         "alter_ego": "Clinton Francis Barton",
         "first_appearance": "Tales of Suspense #57",
-        "characters": "Clinton Francis Barton",
-        "img-xs": "https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/xs/313-hawkeye.jpg",
-        "img-sm": "https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/sm/313-hawkeye.jpg",
-        "img-md": "https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/md/313-hawkeye.jpg",
-        "img-lg": "https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/lg/313-hawkeye.jpg"
+        "characters": "Clinton Francis Barton"
       },
       {
         "id": 19,
@@ -222,11 +150,7 @@
         "publisher": "Marvel Comics",
         "alter_ego": "Scott Summers",
         "first_appearance": "X-Men #1",
-        "characters": "Scott Summers",
-        "img-xs": "https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/xs/196-cyclops.jpg",
-        "img-sm": "https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/sm/196-cyclops.jpg",
-        "img-md": "https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/md/196-cyclops.jpg",
-        "img-lg": "https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/lg/196-cyclops.jpg"
+        "characters": "Scott Summers"
       },
       {
         "id": 20,
@@ -234,11 +158,7 @@
         "publisher": "Marvel Comics",
         "alter_ego": "Norrin Radd",
         "first_appearance": "The Fantastic Four #48",
-        "characters": "Norrin Radd",
-        "img-xs": "https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/xs/598-silver-surfer.jpg",
-        "img-sm": "https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/sm/598-silver-surfer.jpg",
-        "img-md": "https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/md/598-silver-surfer.jpg",
-        "img-lg": "https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/lg/598-silver-surfer.jpg"
+        "characters": "Norrin Radd"
       }
     ]
   }
