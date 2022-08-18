@@ -1,3 +1,4 @@
+
 {
     "heroes": [
       {
@@ -7,6 +8,7 @@
         "alter_ego": "Bruce Wayne",
         "first_appearance": "Detective Comics #27",
         "characters": "Bruce Wayne",
+        "intelligence": 63,
         "md": "https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/md/70-batman.jpg",
         "lg": "https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/lg/70-batman.jpg"
       },
@@ -17,6 +19,7 @@
         "alter_ego": "Kal-El",
         "first_appearance": "Action Comics #1",
         "characters": "Kal-El",
+        "intelligence": 38,
         "md": "https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/md/644-superman.jpg",
         "lg": "https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/lg/644-superman.jpg"
       },
@@ -27,6 +30,7 @@
         "alter_ego": "Jay Garrick",
         "first_appearance": "Flash Comics #1",
         "characters": "Jay Garrick, Barry Allen, Wally West, Bart Allen",
+        "intelligence": 63,
         "md": "https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/md/263-flash.jpg",
         "lg": "https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/lg/263-flash.jpg"
       },
@@ -37,6 +41,7 @@
         "alter_ego": "Alan Scott",
         "first_appearance": "All-American Comics #16",
         "characters": "Alan Scott, Hal Jordan, Guy Gardner, John Stewart, Kyle Raynor, Jade, Sinestro, Simon Baz",
+        "intelligence": 63,
         "md": "https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/md/305-guy-gardner.jpg",
         "lg": "https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/lg/305-guy-gardner.jpg"
       },
@@ -47,6 +52,7 @@
         "alter_ego": "Oliver Queen",
         "first_appearance": "More Fun Comics #73",
         "characters": "Oliver Queen",
+        "inteligence": "81",
         "md": "https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/md/298-green-arrow.jpg",
         "lg": "https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/lg/298-green-arrow.jpg"
       },
@@ -57,6 +63,7 @@
         "alter_ego": "Princess Diana",
         "first_appearance": "All Star Comics #8",
         "characters": "Princess Diana",
+        "intelligence": 88,
         "md": "https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/md/720-wonder-woman.jpg",
         "lg": "https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/lg/720-wonder-woman.jpg"
       },
@@ -67,6 +74,7 @@
         "alter_ego": "J\"onn J\"onzz",
         "first_appearance": "Detective Comics #225",
         "characters": "Martian Manhunter",
+        "intelligence": 100,
         "md": "https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/md/432-martian-manhunter.jpg",
         "lg": "https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/lg/432-martian-manhunter.jpg"
       },
@@ -77,6 +85,7 @@
         "alter_ego": "Dick Grayson",
         "first_appearance": "Detective Comics #38",
         "characters": "Dick Grayson",
+        "intelligence": 88,
         "md": "https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/md/491-nightwing.jpg",
         "lg": "https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/lg/491-nightwing.jpg"
       },
@@ -87,6 +96,7 @@
         "alter_ego": "Dan Garret",
         "first_appearance": "Mystery Men Comics #1",
         "characters": "Dan Garret, Ted Kord, Jaime Reyes",
+        "intelligence": 50,
         "md": "https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/md/126-blue-beetle-iii.jpg",
         "lg": "https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/lg/126-blue-beetle-iii.jpg"
       },
@@ -97,6 +107,7 @@
         "alter_ego": "Dinah Drake",
         "first_appearance": "Flash Comics #86",
         "characters": "Dinah Drake, Dinah Lance",
+        "intelligence": 63,
         "md": "https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/md/97-black-canary.jpg",
         "lg": "https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/lg/97-black-canary.jpg"
       },
@@ -107,6 +118,7 @@
         "alter_ego": "Peter Parker",
         "first_appearance": "Amazing Fantasy #15",
         "characters": "Peter Parker",
+        "intelligence": 90,
         "md": "https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/md/620-spider-man.jpg",
         "lg": "https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/lg/620-spider-man.jpg"
       },
@@ -117,6 +129,7 @@
         "alter_ego": "Steve Rogers",
         "first_appearance": "Captain America Comics #1",
         "characters": "Steve Rogers",
+        "intelligence": 69,
         "md": "https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/md/149-captain-america.jpg",
         "lg": "https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/lg/149-captain-america.jpg"
       },
@@ -127,6 +140,7 @@
         "alter_ego": "Tony Stark",
         "first_appearance": "Tales of Suspense #39",
         "characters": "Tony Stark",
+        "intelligence": 100,
         "md": "https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/md/346-iron-man.jpg",
         "lg": "https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/lg/346-iron-man.jpg"
       },
@@ -137,6 +151,7 @@
         "alter_ego": "Thor Odinson",
         "first_appearance": "Journey into Myster #83",
         "characters": "Thor Odinson",
+        "intelligence": 69,
         "md": "https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/md/659-thor.jpg",
         "lg": "https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/lg/659-thor.jpg"
       },
@@ -147,6 +162,7 @@
         "alter_ego": "Bruce Banner",
         "first_appearance": "The Incredible Hulk #1",
         "characters": "Bruce Banner",
+        "intelligence": 88,
         "md": "https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/md/332-hulk.jpg",
         "lg": "https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/lg/332-hulk.jpg"
       },
@@ -157,6 +173,7 @@
         "alter_ego": "James Howlett",
         "first_appearance": "The Incredible Hulk #180",
         "characters": "James Howlett",
+        "intelligence": 75,
         "md": "https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/md/717-wolverine.jpg",
         "lg": "https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/lg/717-wolverine.jpg"
       },
@@ -167,6 +184,7 @@
         "alter_ego": "Matthew Michael Murdock",
         "first_appearance": "Daredevil #1",
         "characters": "Matthew Michael Murdock",
+        "intelligence": 75,
         "md": "https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/md/201-daredevil.jpg",
         "lg": "https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/lg/201-daredevil.jpg"
       },
@@ -177,6 +195,7 @@
         "alter_ego": "Clinton Francis Barton",
         "first_appearance": "Tales of Suspense #57",
         "characters": "Clinton Francis Barton",
+        "intelligence": 56,
         "md": "https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/md/313-hawkeye.jpg",
         "lg": "https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/lg/313-hawkeye.jpg"
       },
@@ -187,6 +206,7 @@
         "alter_ego": "Scott Summers",
         "first_appearance": "X-Men #1",
         "characters": "Scott Summers",
+        "intelligence": 75,
         "md": "https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/md/196-cyclops.jpg",
         "lg": "https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/lg/196-cyclops.jpg"
       },
@@ -197,6 +217,7 @@
         "alter_ego": "Norrin Radd",
         "first_appearance": "The Fantastic Four #48",
         "characters": "Norrin Radd",
+        "intelligence": 56,
         "md": "https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/md/598-silver-surfer.jpg",
         "lg": "https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/lg/598-silver-surfer.jpg"
       }
