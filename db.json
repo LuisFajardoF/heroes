@@ -152,8 +152,6 @@
         "first_appearance": "Captain America Comics #1",
         "characters": "Steve Rogers",
         "intelligence": 69,
-        "strength": 85,
-        "speed": 33,
         "md": "https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/md/149-captain-america.jpg",
         "lg": "https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/lg/149-captain-america.jpg"
       },
@@ -224,16 +222,16 @@
       },
       {
         "id": 18,
-        "superhero": "Hawkeye",
-        "publisher": "Marvel Comics",
-        "alter_ego": "Clinton Francis Barton",
-        "first_appearance": "Tales of Suspense #57",
-        "characters": "Clinton Francis Barton",
+        "superhero": "GoKu",
+        "publisher": "Shueisha",
+        "alter_ego": "No alter egos found.",
+        "first_appearance": "Dragon Ball #1",
+        "characters": "Kakarot",
         "intelligence": 56,
-        "strength": 12,
-        "speed": 21,        
-        "md": "https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/md/313-hawkeye.jpg",
-        "lg": "https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/lg/313-hawkeye.jpg"
+        "strength": 100,
+        "speed": 75,        
+        "md": "https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/md/289-goku.jpg",
+        "lg": "https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/lg/289-goku.jpg"
       }
     ]
   }
