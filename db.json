@@ -152,6 +152,8 @@
         "first_appearance": "Captain America Comics #1",
         "characters": "Steve Rogers",
         "intelligence": 69,
+        "strength": 85,
+        "speed": 33,
         "md": "https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/md/149-captain-america.jpg",
         "lg": "https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/lg/149-captain-america.jpg"
       },
